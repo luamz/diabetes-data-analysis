@@ -3,7 +3,7 @@
 ##  Diabetes & Age Distribution 
 Out of 768 patients, 500 didn't have diabetes & 268 did. Regarding age, just over half of the patients in the study are between 21 and 30 years old and the other half are patients between 31 and 81 years old. Therefore, the proportion of young adults in the study is higher than that of adults and elders.
 
-<img src="https://github.com/luamz/diabetes-data-analysis/blob/master/imgs/diabetes_distribution.png?raw=true" width="450"> <img src="https://github.com/luamz/diabetes-data-analysis/blob/master/imgs/age_distribution.png?raw=true" width="350">
+<img src="https://github.com/luamz/diabetes-data-analysis/blob/master/imgs/diabetes_distribution.png?raw=true" width="350"> <img src="https://github.com/luamz/diabetes-data-analysis/blob/master/imgs/age_distribution.png?raw=true" width="300">
 
 ## Investigating Glucose Levels 
 It's shown on the histrograms bellow that the majority (94%) of patients with diabetes (positive) have glucose levels between 100 and 199, while the majority (91.8%) of patients without diabetes (negative) have glucose levels between 50 and 149.
